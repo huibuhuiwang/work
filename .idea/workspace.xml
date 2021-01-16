@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="soft1:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4bf1c45-1375-4753-916e-16a90f74ad5b" name="Default Changelist" comment="修改">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="D:/travel/travel/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1022287051">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="67" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="5" />
+          <entry key="project.open.time.120" value="1" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.28" value="3" />
+          <entry key="project.open.time.30" value="2" />
+          <entry key="project.open.time.31" value="4" />
+          <entry key="project.open.time.32" value="5" />
+          <entry key="project.open.time.33" value="4" />
+          <entry key="project.open.time.34" value="8" />
+          <entry key="project.open.time.35" value="5" />
+          <entry key="project.open.time.36" value="4" />
+          <entry key="project.open.time.37" value="2" />
+          <entry key="project.open.time.38" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.41" value="2" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.69" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.80" value="1" />
+          <entry key="project.open.time.81" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="76" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="114" />
+          <entry key="jsp" value="73" />
+          <entry key="ts" value="1" />
+          <entry key="xml" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="114" />
+          <entry key="JSP" value="73" />
+          <entry key="TypeScript" value="1" />
+          <entry key="XML" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="5820" />
+          <entry key="jsp" value="6514" />
+          <entry key="txt" value="65" />
+          <entry key="xml" value="588" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="5820" />
+          <entry key="JSP" value="6514" />
+          <entry key="PLAIN_TEXT" value="65" />
+          <entry key="XML" value="588" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/display.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LoginServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="21" column="53" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/displayServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/QueryServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-259">
+              <caret line="42" column="69" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dbconn/DBconn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-119">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/addresult.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="39" column="45" lean-forward="true" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dao/impl/gooddaoimpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="37" column="55" selection-start-line="37" selection-start-column="55" selection-end-line="37" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>C:\Users\liuwenjiang\IdeaProjects\soft\src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/goods.java" />
+        <option value="$PROJECT_DIR$/src/com/goods/web/goods/goods.java" />
+        <option value="$PROJECT_DIR$/src/addService.java" />
+        <option value="$PROJECT_DIR$/src/sql.java" />
+        <option value="$PROJECT_DIR$/src/Dao/dao.java" />
+        <option value="$PROJECT_DIR$/src/com/goods/web/goods.java" />
+        <option value="$PROJECT_DIR$/src/addServlet.java" />
+        <option value="$PROJECT_DIR$/web/delresult.jsp" />
+        <option value="$PROJECT_DIR$/src/dbconn/DBconn.java" />
+        <option value="$PROJECT_DIR$/web/update.jsp" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/src/servlet/displayServlet.java" />
+        <option value="$PROJECT_DIR$/src/servlet/deleteServlet.java" />
+        <option value="$PROJECT_DIR$/src/servlet/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/src/servlet/QueryServlet.java" />
+        <option value="$PROJECT_DIR$/src/servlet/updateServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/goods/web/servlet/updateServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/goods/web/deleteServlet.java" />
+        <option value="$PROJECT_DIR$/src/QueryServlet.java" />
+        <option value="$PROJECT_DIR$/src/updateServlet.java" />
+        <option value="$PROJECT_DIR$/src/vo/good.java" />
+        <option value="$PROJECT_DIR$/src/dao/gooddao.java" />
+        <option value="$PROJECT_DIR$/src/service/goodservice.java" />
+        <option value="$PROJECT_DIR$/src/goodservlet.java" />
+        <option value="$PROJECT_DIR$/web/display.jsp" />
+        <option value="$PROJECT_DIR$/src/service/impl/goodserviceimpl.java" />
+        <option value="$PROJECT_DIR$/src/dao/impl/gooddaoimpl.java" />
+        <option value="$PROJECT_DIR$/src/deleteServlet.java" />
+        <option value="$PROJECT_DIR$/web/add.jsp" />
+        <option value="$PROJECT_DIR$/web/delete.jsp" />
+        <option value="$PROJECT_DIR$/web/query.jsp" />
+        <option value="$PROJECT_DIR$/web/login.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/TestQuery.java" />
+        <option value="$PROJECT_DIR$/src/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/src/displayServlet.java" />
+        <option value="$PROJECT_DIR$/web/addresult.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="282" />
+    <option name="y" value="127" />
+    <option name="width" value="1320" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Java EE</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>WebProperties</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="soft1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="soft" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="soft1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="soft" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="CatdeaLogs" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/liuwenjiang/IdeaProjects/soft/web/login.jsp" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610794585464" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\liuwenjiang\IdeaProjects\soft\web\WEB-INF\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.39">
+    <configuration name="DBconn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dbconn.DBconn" />
+      <module name="soft1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dbconn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sql (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sql" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sql" />
+      <module name="soft1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All Features in: sqljdbc4.jar" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/web/WEB-INF/lib/sqljdbc4.jar" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="soft1" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="All Features in: sqljdbc4.jar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.39" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.39" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="soft1:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_39_soft1" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="1295" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="soft1:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.39" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_soft1" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="1296" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="addresult.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.39" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/addresult.jsp" />
+      <deployment>
+        <artifact name="soft1:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="addresult_jsp_soft1" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="soft1:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat 9.0.39" />
+      <item itemvalue="Tomcat Server.Unnamed" />
+      <item itemvalue="Application.sql" />
+      <item itemvalue="Application.sql (1)" />
+      <item itemvalue="Application.DBconn" />
+      <item itemvalue="Cucumber java.All Features in: sqljdbc4.jar" />
+      <item itemvalue="Tomcat Server.addresult.jsp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DBconn" />
+        <item itemvalue="Application.sql" />
+        <item itemvalue="Tomcat Server.addresult.jsp" />
+        <item itemvalue="Cucumber java.All Features in: sqljdbc4.jar" />
+        <item itemvalue="Application.sql (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4bf1c45-1375-4753-916e-16a90f74ad5b" name="Default Changelist" comment="" />
+      <created>1602594093612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602594093612</updated>
+      <workItem from="1602594102133" duration="1890000" />
+      <workItem from="1602596035234" duration="24000" />
+      <workItem from="1602598242169" duration="5034000" />
+      <workItem from="1602655833918" duration="6151000" />
+      <workItem from="1602664258096" duration="51000" />
+      <workItem from="1602664334743" duration="15029000" />
+      <workItem from="1602766113143" duration="2626000" />
+      <workItem from="1602829987623" duration="92000" />
+      <workItem from="1602830688747" duration="3788000" />
+      <workItem from="1602900023515" duration="4863000" />
+      <workItem from="1602918390032" duration="11263000" />
+      <workItem from="1602991961750" duration="1806000" />
+      <workItem from="1603004906009" duration="465000" />
+      <workItem from="1603192842884" duration="3831000" />
+      <workItem from="1603270158005" duration="756000" />
+      <workItem from="1603280014046" duration="6651000" />
+      <workItem from="1603525331233" duration="9310000" />
+      <workItem from="1603610828291" duration="10486000" />
+      <workItem from="1603631394638" duration="4789000" />
+      <workItem from="1603636228357" duration="5923000" />
+      <workItem from="1603642371222" duration="544000" />
+      <workItem from="1603642952745" duration="181000" />
+      <workItem from="1603689748560" duration="1484000" />
+      <workItem from="1603720803788" duration="5375000" />
+      <workItem from="1603728365664" duration="1396000" />
+      <workItem from="1603729893176" duration="84000" />
+      <workItem from="1603783796956" duration="937000" />
+      <workItem from="1603784838342" duration="3028000" />
+      <workItem from="1603787922903" duration="3838000" />
+      <workItem from="1603793105905" duration="2646000" />
+      <workItem from="1603797226669" duration="8180000" />
+      <workItem from="1603807082087" duration="8927000" />
+      <workItem from="1603873251250" duration="1459000" />
+      <workItem from="1603889433833" duration="3312000" />
+      <workItem from="1603962615061" duration="2161000" />
+      <workItem from="1604039490913" duration="5895000" />
+      <workItem from="1604130736999" duration="8175000" />
+      <workItem from="1604144388321" duration="2903000" />
+      <workItem from="1604147626659" duration="380000" />
+      <workItem from="1604148539105" duration="1348000" />
+      <workItem from="1604301541573" duration="4866000" />
+      <workItem from="1604317990331" duration="1927000" />
+      <workItem from="1604326493282" duration="2035000" />
+      <workItem from="1604402829629" duration="6004000" />
+      <workItem from="1604493094516" duration="281000" />
+      <workItem from="1604733703489" duration="10018000" />
+      <workItem from="1604745095654" duration="9936000" />
+      <workItem from="1604810408853" duration="372000" />
+      <workItem from="1604821237484" duration="7192000" />
+      <workItem from="1604835837840" duration="3180000" />
+      <workItem from="1604928514005" duration="3185000" />
+      <workItem from="1604990647680" duration="2322000" />
+      <workItem from="1605007835287" duration="397000" />
+      <workItem from="1605613797446" duration="2769000" />
+      <workItem from="1605667398041" duration="615000" />
+      <workItem from="1605699323900" duration="3210000" />
+      <workItem from="1605704814504" duration="2856000" />
+      <workItem from="1605773899429" duration="691000" />
+      <workItem from="1606106838182" duration="1230000" />
+      <workItem from="1606310634405" duration="844000" />
+      <workItem from="1606316938228" duration="773000" />
+      <workItem from="1606460118815" duration="425000" />
+      <workItem from="1606460596683" duration="706000" />
+      <workItem from="1606467097781" duration="736000" />
+      <workItem from="1606474490592" duration="1771000" />
+      <workItem from="1606476273533" duration="404000" />
+      <workItem from="1606476697199" duration="19047000" />
+      <workItem from="1606534457003" duration="1198000" />
+      <workItem from="1606548952349" duration="8647000" />
+      <workItem from="1606563432068" duration="9431000" />
+      <workItem from="1606576890672" duration="226000" />
+      <workItem from="1609846536135" duration="889000" />
+      <workItem from="1609847532600" duration="2352000" />
+      <workItem from="1609915774189" duration="1539000" />
+      <workItem from="1610786188343" duration="1674000" />
+      <workItem from="1610787966421" duration="6310000" />
+    </task>
+    <task id="LOCAL-00001" summary="修改">
+      <created>1610793612473</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610793612473</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_Features_in__sqljdbc4_jar - 2020.10.25 at 22h 23m 25s.xml">
+      <configuration name="All Features in: sqljdbc4.jar" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="277139000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989429" visible="true" weight="0.14812332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.5010571" side_tool="true" weight="0.27949062" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27478755" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3432624" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32970452" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32970452" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.31205675" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24932976" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32908848" />
+      <window_info anchor="right" id="Database" order="6" weight="0.21097372" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/sqljdbc4.xml" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/classes/LoginServlet.class" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="16924" column="31" lean-forward="true" selection-start-line="16924" selection-start-column="31" selection-end-line="16924" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/lib/src.zip!/java.base/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="521" selection-start-line="521" selection-end-line="521" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/lib/src.zip!/java.base/jdk/internal/loader/ClassLoaders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="167" selection-start-line="167" selection-end-line="167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/lib/src.zip!/java.base/jdk/internal/loader/BuiltinClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="605" selection-start-line="605" selection-end-line="605" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dao/dao.java" />
+    <entry file="file://$PROJECT_DIR$/src/addService.java" />
+    <entry file="file://$PROJECT_DIR$/src/update.java" />
+    <entry file="file://$PROJECT_DIR$/web/delresult.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/update.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/goods/web/servlet/LoginServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/goods/web/servlet/deleteServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/goods/web/servlet/displayServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/goods/web/servlet/QueryServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/goods/web/servlet/updateServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/goods/web/deleteServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/dao/impl/gooddao.java" />
+    <entry file="file://$PROJECT_DIR$/src/goodservlet.java" />
+    <entry file="file://$PROJECT_DIR$/web/delete.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/soft1_war_exploded/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vo/good.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/query.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="75" column="12" selection-start-line="75" selection-start-column="12" selection-end-line="75" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestQuery.java" />
+    <entry file="file://$PROJECT_DIR$/src/addServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/updateServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="74" column="36" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/deleteServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="38" column="75" selection-start-line="38" selection-start-column="75" selection-end-line="38" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="10" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1921">
+          <caret line="113" column="19" selection-start-line="113" selection-start-column="19" selection-end-line="113" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/goods/web/goods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/goodservice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/impl/goodserviceimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/gooddao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/impl/gooddaoimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="37" column="55" selection-start-line="37" selection-start-column="55" selection-end-line="37" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="70" lean-forward="true" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QueryServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-259">
+          <caret line="42" column="69" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dbconn/DBconn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/display.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/displayServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="21" column="53" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soft/src/addServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="34" column="47" lean-forward="true" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soft/src/updateServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soft/src/QueryServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/addresult.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="39" column="45" lean-forward="true" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>soft1:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (soft1)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>15</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>soft1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba:druid:1.0.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
